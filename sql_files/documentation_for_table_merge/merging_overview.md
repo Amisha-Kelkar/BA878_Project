@@ -1,7 +1,3 @@
-===============================================================================
-FILE: docs/merging_overview.md
-===============================================================================
-
 # Merging Overview — Creation of Final Dataset (rework14)
 
 The dataset `rework14` is the culmination of merging **17+ MIMIC-IV tables**

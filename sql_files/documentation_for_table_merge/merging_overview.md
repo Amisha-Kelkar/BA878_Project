@@ -1,5 +1,5 @@
 ===============================================================================
-===== FILE: docs/merging_overview.md
+FILE: docs/merging_overview.md
 ===============================================================================
 
 # Merging Overview — Creation of Final Dataset (rework14)

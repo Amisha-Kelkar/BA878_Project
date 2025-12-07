@@ -50,7 +50,7 @@ Fairness checks showed no systematic differences across demographic groups.
 * Missingness in coagulation labs reflects real ICU practice and introduces uncertainty.
 * The models are trained on data from a single center and require external validation.
 
-### 7. Summary
+### 6. Summary
 
 This project shows that both SIC and subsequent progression to DIC can be predicted in advance using routinely collected ICU data. A two-stage approach grounded in ISTH and JAAM criteria provides a practical framework for early-warning systems aimed at supporting clinical management of sepsis-associated coagulopathy.
     
